@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Main-Class: com.kirillpolyakov.Main
+Class-Path: error_prone_annotations-2.28.0.jar jetty-webapp-9.4.43.v2021
+ 0629.jar jsr305-3.0.2.jar jetty-util-9.4.43.v20210629.jar jackson-datat
+ ype-jsr310-2.12.4.jar jetty-servlet-9.4.43.v20210629.jar spring-boot-st
+ arter-json-2.5.4.jar websocket-api-9.4.43.v20210629.jar jackson-annotat
+ ions-2.12.4.jar spring-boot-starter-aop-2.5.4.jar spring-orm-5.3.9.jar 
+ log4j-to-slf4j-2.14.1.jar websocket-common-9.4.43.v20210629.jar metrics
+ -jmx-4.1.25.jar jetty-server-9.4.43.v20210629.jar websocket-client-9.4.
+ 43.v20210629.jar spring-boot-starter-validation-2.5.4.jar slf4j-api-1.7
+ .32.jar hibernate-validator-6.2.0.Final.jar spring-boot-starter-tomcat-
+ 2.5.4.jar jetty-util-ajax-9.4.43.v20210629.jar spring-webmvc-5.3.9.jar 
+ jakarta.transaction-api-1.3.3.jar spring-boot-starter-web-2.5.4.jar ann
+ otations-13.0.jar hibernate-core-5.4.32.Final.jar okhttp-3.14.9.jar kot
+ lin-stdlib-jdk8-1.5.21.jar checker-qual-3.43.0.jar spring-boot-starter-
+ jdbc-2.5.4.jar tomcat-embed-el-9.0.52.jar logging-interceptor-3.14.9.ja
+ r spring-data-jpa-2.5.4.jar jetty-client-9.4.43.v20210629.jar spring-da
+ ta-commons-2.5.4.jar spring-aop-5.3.9.jar jboss-logging-3.4.2.Final.jar
+  byte-buddy-1.10.22.jar javax.servlet-api-4.0.1.jar hibernate-commons-a
+ nnotations-5.1.2.Final.jar istack-commons-runtime-3.0.12.jar aspectjwea
+ ver-1.9.7.jar spring-aspects-5.3.9.jar jetty-io-9.4.43.v20210629.jar fa
+ ilureaccess-1.0.2.jar jackson-datatype-jdk8-2.12.4.jar kotlin-stdlib-jd
+ k7-1.5.21.jar spring-context-5.3.9.jar jakarta.xml.bind-api-2.3.3.jar l
+ ogback-core-1.2.5.jar spring-boot-starter-2.5.4.jar kotlin-stdlib-commo
+ n-1.5.21.jar spring-boot-starter-logging-2.5.4.jar spring-tx-5.3.9.jar 
+ jakarta.validation-api-2.0.2.jar spring-jcl-5.3.9.jar spring-boot-start
+ er-data-jpa-2.5.4.jar j2objc-annotations-3.0.0.jar guava-33.3.1-jre.jar
+  jetty-security-9.4.43.v20210629.jar jaxb-runtime-2.3.5.jar listenablef
+ uture-9999.0-empty-to-avoid-conflict-with-guava.jar gson-2.8.7.jar jaka
+ rta.activation-1.2.2.jar snakeyaml-1.28.jar spring-boot-starter-telegra
+ m-0.27.jar java-telegram-bot-api-5.7.0.jar HikariCP-4.0.3.jar jetty-htt
+ p-9.4.43.v20210629.jar txw2-2.3.5.jar classmate-1.5.1.jar jackson-modul
+ e-parameter-names-2.12.4.jar jandex-2.2.3.Final.jar spring-core-5.3.9.j
+ ar okio-1.17.2.jar logback-classic-1.2.5.jar jul-to-slf4j-1.7.32.jar va
+ lidation-api-2.0.1.Final.jar tomcat-embed-core-9.0.52.jar websocket-ser
+ vlet-9.4.43.v20210629.jar jackson-databind-2.12.4.jar dom4j-2.1.3.jar j
+ akarta.persistence-api-2.2.3.jar spring-web-5.3.9.jar spring-beans-5.3.
+ 9.jar javalin-3.12.0.jar jetty-xml-9.4.43.v20210629.jar spring-jdbc-5.3
+ .9.jar antlr-2.7.7.jar javassist-3.27.0-GA.jar tomcat-embed-websocket-9
+ .0.52.jar mysql-connector-java-8.0.26.jar spring-boot-2.5.4.jar kotlin-
+ stdlib-1.5.21.jar spring-boot-autoconfigure-2.5.4.jar jackson-core-2.12
+ .4.jar spring-expression-5.3.9.jar jakarta.annotation-api-1.3.5.jar web
+ socket-server-9.4.43.v20210629.jar metrics-core-4.1.25.jar log4j-api-2.
+ 14.1.jar
+

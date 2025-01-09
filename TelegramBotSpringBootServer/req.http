@@ -1,0 +1,33 @@
+###
+POST localhost:8080/telegram/message/243527073?message=Hi!
+
+###
+DELETE localhost:8080/telegram/243527073/2116
+
+###
+POST localhost:8080/telegram/document/243527073 HTTP/1.1
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="pom.xml"
+
+// The 'input.txt' file will be uploaded
+< pom.xml
+
+###
+POST localhost:8080/telegram/photo/243527073 HTTP/1.1
+Content-Type: multipart/form-data; boundary=boundary
+
+--boundary
+Content-Disposition: form-data; name="file"; filename="4.jpg"
+
+// The 'input.txt' file will be uploaded
+< 5.jpg
+
+### get user
+GET localhost:8080/user/2
+
+### delete user
+DELETE localhost:8080/user/2
+
+

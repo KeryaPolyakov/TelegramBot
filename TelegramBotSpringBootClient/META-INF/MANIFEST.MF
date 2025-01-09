@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: com.kirillpolyakov.telegrambotspringbootclient.program.Progr
+ am
+Class-Path: jackson-annotations-2.14.2.jar jackson-core-2.14.2.jar conve
+ rter-jackson-2.9.0.jar okio-1.17.2.jar javafx-controls-19-win.jar javaf
+ x-fxml-19-win.jar javafx-base-19.jar javafx-controls-19.jar javafx-fxml
+ -19.jar javafx-base-19-win.jar jackson-databind-2.14.2.jar retrofit-2.9
+ .0.jar javafx-graphics-19.jar javafx-graphics-19-win.jar jackson-dataty
+ pe-jsr310-2.14.2.jar okhttp-3.14.9.jar
+

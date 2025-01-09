@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="255.0" prefWidth="387.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.kirillpolyakov.telegrambotspringbootclient.controller.ControllerMessage">
+   <children>
+      <TextField fx:id="textFieldMessage" layoutX="21.0" layoutY="23.0" prefHeight="182.0" prefWidth="346.0" />
+      <Button layoutX="173.0" layoutY="216.0" mnemonicParsing="false" onAction="#buttonSend" text="send" />
+   </children>
+</AnchorPane>

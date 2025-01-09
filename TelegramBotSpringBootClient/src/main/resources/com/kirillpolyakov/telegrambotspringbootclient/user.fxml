@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="355.0" prefWidth="483.0" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.kirillpolyakov.telegrambotspringbootclient.controller.UserController">
+   <children>
+      <Text fx:id="labelUserName" layoutX="19.0" layoutY="27.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Username" />
+      <Button layoutX="112.0" layoutY="316.0" mnemonicParsing="false" onAction="#buttonSendText" text="Send text" />
+      <Button layoutX="185.0" layoutY="316.0" mnemonicParsing="false" onAction="#buttonSendDocument" text="Send document" />
+      <Button layoutX="292.0" layoutY="316.0" mnemonicParsing="false" onAction="#buttonSendImage" text="Send image" />
+      <TableView fx:id="tableColumnMessages" layoutX="13.0" layoutY="47.0" prefHeight="256.0" prefWidth="457.0" />
+      <Button fx:id="buttonDeleteUser" layoutX="394.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonDeleteUser" text="Delete user" />
+      <Button layoutX="284.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonUserActions" text="get user's actions" />
+      <Button layoutX="167.0" layoutY="10.0" mnemonicParsing="false" onAction="#buttonUpdateMessage" text="Update messages" />
+   </children>
+</AnchorPane>
